@@ -1,0 +1,124 @@
+names:
+- siberian husky
+- japanese spaniel
+- standard poodle
+- giant schnauzer
+- irish wolfhound
+- maltese dog
+- saluki
+- pekinese
+- malamute
+- tibetan mastiff
+- dandie dinmont
+- lhasa
+- cocker spaniel
+- labrador retriever
+- sealyham terrier
+- redbone
+- pomeranian
+- irish water spaniel
+- afghan hound
+- keeshond
+- chihuahua
+- irish setter
+- beagle
+- affenpinscher
+- kelpie
+- papillon
+- boston bull
+- brabancon griffon
+- ibizan hound
+- malinois
+- chesapeake bay retriever
+- newfoundland
+- tibetan terrier
+- otterhound
+- komondor
+- english springer
+- great dane
+- doberman
+- cardigan
+- borzoi
+- gordon setter
+- shetland sheepdog
+- greater swiss mountain dog
+- irish terrier
+- west highland white terrier
+- walker hound
+- staffordshire bullterrier
+- eskimo dog
+- bernese mountain dog
+- clumber
+- italian greyhound
+- chow
+- briard
+- brittany spaniel
+- bouvier des flandres
+- wire-haired fox terrier
+- cairn
+- english setter
+- border collie
+- schipperke
+- entlebucher
+- collie
+- lakeland terrier
+- english foxhound
+- basset
+- toy poodle
+- yorkshire terrier
+- scottish deerhound
+- norwegian elkhound
+- african hunting dog
+- blenheim spaniel
+- airedale
+- pug
+- bull mastiff
+- basenji
+- norfolk terrier
+- shih-tzu
+- welsh springer spaniel
+- rottweiler
+- australian terrier
+- samoyed
+- scotch terrier
+- french bulldog
+- border terrier
+- vizsla
+- pembroke
+- old english sheepdog
+- german short-haired pointer
+- miniature poodle
+- bluetick
+- kuvasz
+- american staffordshire terrier
+- norwich terrier
+- boxer
+- rhodesian ridgeback
+- miniature pinscher
+- groenendael
+- kerry blue terrier
+- standard schnauzer
+- mexican hairless
+- saint bernard
+- german shepherd
+- dhole
+- great pyrenees
+- toy terrier
+- whippet
+- curly-coated retriever
+- golden retriever
+- flat-coated retriever
+- weimaraner
+- dingo
+- sussex spaniel
+- leonberg
+- appenzeller
+- silky terrier
+- bloodhound
+- black-and-tan coonhound
+- soft-coated wheaten terrier
+- bedlington terrier
+- miniature schnauzer
+nc: 120
+train: images/train
+val: images/val
